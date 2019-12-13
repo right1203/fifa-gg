@@ -1,0 +1,10 @@
+{% extends 'usermatch/base.html' %}
+
+{% block content %}
+    <div>
+        <form method="get" class="summoner-search-form" action="{% url 'usermatch:recentmatch_summary' %}">
+            <input type="text" class="summoner-search-form__text" placeholder="구단주명" name="search_nickname" value="{{search_nickname}}">
+            <button type="submit" class="summoner-search-form__button" type="submit">검색</button>
+        </form>
+    </div>
+{% endblock %}

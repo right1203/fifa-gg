@@ -1,0 +1,273 @@
+# 이 viminfo 파일은 빔이 만든 것입니다 Vim 8.0.
+# 조심만 한다면 고칠 수도 있습니다!
+
+# Viminfo version
+|1,4
+
+# 이 파일이 저장되었을 때의 'encoding'의 값
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 명령 행 히스토리 (새것부터 오래된 것 순):
+:q
+|2,0,1575289770,,"q"
+:wq
+|2,0,1575289594,,"wq"
+
+# 찾을 문자열 히스토리 (새것부터 오래된 것 순):
+
+# 표현 히스토리 (새것부터 오래된 것 순):
+
+# 입력 행 히스토리 (새것부터 오래된 것 순):
+
+# 디버그 행 히스토리 (새것부터 오래된 것 순):
+
+# 레지스터:
+
+# 파일 마크:
+'0  24  5  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html
+|4,48,24,5,1575297963,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html"
+'1  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/urls.py
+|4,49,1,0,1575289770,"/home/right1203/hwibell/FIFAGG_site/usermatch/urls.py"
+'2  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/models.py
+|4,50,1,0,1575289752,"/home/right1203/hwibell/FIFAGG_site/usermatch/models.py"
+'3  131  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/css/home.css
+|4,51,131,0,1575289732,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/css/home.css"
+'4  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/usermatch_view.html
+|4,52,1,0,1575289713,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/usermatch_view.html"
+'5  2  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html
+|4,53,2,0,1575289702,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html"
+'6  2  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html
+|4,54,2,0,1575289702,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html"
+'7  112  0  /home/right1203/hwibell/FIFAGG_site/usermatch/views.py
+|4,55,112,0,1575289598,"/home/right1203/hwibell/FIFAGG_site/usermatch/views.py"
+
+# 점프목록 (새것이 먼저):
+-'  24  5  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html
+|4,39,24,5,1575297963,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html"
+-'  2  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html
+|4,39,2,0,1575293311,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/urls.py
+|4,39,1,0,1575289770,"/home/right1203/hwibell/FIFAGG_site/usermatch/urls.py"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/urls.py
+|4,39,1,0,1575289770,"/home/right1203/hwibell/FIFAGG_site/usermatch/urls.py"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/models.py
+|4,39,1,0,1575289752,"/home/right1203/hwibell/FIFAGG_site/usermatch/models.py"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/models.py
+|4,39,1,0,1575289752,"/home/right1203/hwibell/FIFAGG_site/usermatch/models.py"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/models.py
+|4,39,1,0,1575289752,"/home/right1203/hwibell/FIFAGG_site/usermatch/models.py"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/models.py
+|4,39,1,0,1575289752,"/home/right1203/hwibell/FIFAGG_site/usermatch/models.py"
+-'  131  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/css/home.css
+|4,39,131,0,1575289732,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/css/home.css"
+-'  131  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/css/home.css
+|4,39,131,0,1575289732,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/css/home.css"
+-'  131  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/css/home.css
+|4,39,131,0,1575289732,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/css/home.css"
+-'  131  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/css/home.css
+|4,39,131,0,1575289732,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/css/home.css"
+-'  131  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/css/home.css
+|4,39,131,0,1575289732,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/css/home.css"
+-'  131  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/css/home.css
+|4,39,131,0,1575289732,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/css/home.css"
+-'  131  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/css/home.css
+|4,39,131,0,1575289732,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/css/home.css"
+-'  131  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/css/home.css
+|4,39,131,0,1575289732,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/css/home.css"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/css/home.css
+|4,39,1,0,1575289723,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/css/home.css"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/css/home.css
+|4,39,1,0,1575289723,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/css/home.css"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/css/home.css
+|4,39,1,0,1575289723,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/css/home.css"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/css/home.css
+|4,39,1,0,1575289723,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/css/home.css"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/css/home.css
+|4,39,1,0,1575289723,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/css/home.css"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/css/home.css
+|4,39,1,0,1575289723,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/css/home.css"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/css/home.css
+|4,39,1,0,1575289723,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/css/home.css"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/css/home.css
+|4,39,1,0,1575289723,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/css/home.css"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/usermatch_view.html
+|4,39,1,0,1575289713,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/usermatch_view.html"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/usermatch_view.html
+|4,39,1,0,1575289713,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/usermatch_view.html"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/usermatch_view.html
+|4,39,1,0,1575289713,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/usermatch_view.html"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/usermatch_view.html
+|4,39,1,0,1575289713,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/usermatch_view.html"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/usermatch_view.html
+|4,39,1,0,1575289713,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/usermatch_view.html"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/usermatch_view.html
+|4,39,1,0,1575289713,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/usermatch_view.html"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/usermatch_view.html
+|4,39,1,0,1575289713,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/usermatch_view.html"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/usermatch_view.html
+|4,39,1,0,1575289713,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/usermatch_view.html"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/usermatch_view.html
+|4,39,1,0,1575289713,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/usermatch_view.html"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/usermatch_view.html
+|4,39,1,0,1575289713,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/usermatch_view.html"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/usermatch_view.html
+|4,39,1,0,1575289713,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/usermatch_view.html"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/usermatch_view.html
+|4,39,1,0,1575289713,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/usermatch_view.html"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/usermatch_view.html
+|4,39,1,0,1575289713,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/usermatch_view.html"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/usermatch_view.html
+|4,39,1,0,1575289713,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/usermatch_view.html"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/usermatch_view.html
+|4,39,1,0,1575289713,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/usermatch_view.html"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/usermatch_view.html
+|4,39,1,0,1575289713,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/usermatch_view.html"
+-'  2  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html
+|4,39,2,0,1575289702,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html"
+-'  2  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html
+|4,39,2,0,1575289702,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html"
+-'  2  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html
+|4,39,2,0,1575289702,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html"
+-'  2  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html
+|4,39,2,0,1575289702,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html"
+-'  2  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html
+|4,39,2,0,1575289702,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html"
+-'  2  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html
+|4,39,2,0,1575289702,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html"
+-'  2  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html
+|4,39,2,0,1575289702,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html"
+-'  2  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html
+|4,39,2,0,1575289702,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html"
+-'  2  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html
+|4,39,2,0,1575289702,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html"
+-'  2  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html
+|4,39,2,0,1575289702,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html"
+-'  2  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html
+|4,39,2,0,1575289702,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html"
+-'  2  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html
+|4,39,2,0,1575289702,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html"
+-'  2  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html
+|4,39,2,0,1575289702,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html"
+-'  2  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html
+|4,39,2,0,1575289702,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html"
+-'  2  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html
+|4,39,2,0,1575289702,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html"
+-'  2  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html
+|4,39,2,0,1575289702,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html
+|4,39,1,0,1575289686,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html
+|4,39,1,0,1575289686,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html
+|4,39,1,0,1575289686,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html
+|4,39,1,0,1575289686,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html
+|4,39,1,0,1575289686,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html
+|4,39,1,0,1575289686,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html
+|4,39,1,0,1575289686,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html
+|4,39,1,0,1575289686,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html
+|4,39,1,0,1575289686,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html
+|4,39,1,0,1575289686,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html
+|4,39,1,0,1575289686,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html
+|4,39,1,0,1575289686,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html
+|4,39,1,0,1575289686,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html
+|4,39,1,0,1575289686,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html
+|4,39,1,0,1575289686,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html
+|4,39,1,0,1575289686,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html"
+-'  1  0  /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html
+|4,39,1,0,1575289686,"/home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html"
+-'  112  0  /home/right1203/hwibell/FIFAGG_site/usermatch/views.py
+|4,39,112,0,1575289598,"/home/right1203/hwibell/FIFAGG_site/usermatch/views.py"
+-'  112  0  /home/right1203/hwibell/FIFAGG_site/usermatch/views.py
+|4,39,112,0,1575289598,"/home/right1203/hwibell/FIFAGG_site/usermatch/views.py"
+-'  112  0  /home/right1203/hwibell/FIFAGG_site/usermatch/views.py
+|4,39,112,0,1575289598,"/home/right1203/hwibell/FIFAGG_site/usermatch/views.py"
+-'  112  0  /home/right1203/hwibell/FIFAGG_site/usermatch/views.py
+|4,39,112,0,1575289598,"/home/right1203/hwibell/FIFAGG_site/usermatch/views.py"
+-'  112  0  /home/right1203/hwibell/FIFAGG_site/usermatch/views.py
+|4,39,112,0,1575289598,"/home/right1203/hwibell/FIFAGG_site/usermatch/views.py"
+-'  112  0  /home/right1203/hwibell/FIFAGG_site/usermatch/views.py
+|4,39,112,0,1575289598,"/home/right1203/hwibell/FIFAGG_site/usermatch/views.py"
+-'  112  0  /home/right1203/hwibell/FIFAGG_site/usermatch/views.py
+|4,39,112,0,1575289598,"/home/right1203/hwibell/FIFAGG_site/usermatch/views.py"
+-'  112  0  /home/right1203/hwibell/FIFAGG_site/usermatch/views.py
+|4,39,112,0,1575289598,"/home/right1203/hwibell/FIFAGG_site/usermatch/views.py"
+-'  112  0  /home/right1203/hwibell/FIFAGG_site/usermatch/views.py
+|4,39,112,0,1575289598,"/home/right1203/hwibell/FIFAGG_site/usermatch/views.py"
+-'  112  0  /home/right1203/hwibell/FIFAGG_site/usermatch/views.py
+|4,39,112,0,1575289598,"/home/right1203/hwibell/FIFAGG_site/usermatch/views.py"
+-'  112  0  /home/right1203/hwibell/FIFAGG_site/usermatch/views.py
+|4,39,112,0,1575289598,"/home/right1203/hwibell/FIFAGG_site/usermatch/views.py"
+-'  112  0  /home/right1203/hwibell/FIFAGG_site/usermatch/views.py
+|4,39,112,0,1575289598,"/home/right1203/hwibell/FIFAGG_site/usermatch/views.py"
+-'  112  0  /home/right1203/hwibell/FIFAGG_site/usermatch/views.py
+|4,39,112,0,1575289598,"/home/right1203/hwibell/FIFAGG_site/usermatch/views.py"
+-'  112  0  /home/right1203/hwibell/FIFAGG_site/usermatch/views.py
+|4,39,112,0,1575289598,"/home/right1203/hwibell/FIFAGG_site/usermatch/views.py"
+-'  112  0  /home/right1203/hwibell/FIFAGG_site/usermatch/views.py
+|4,39,112,0,1575289598,"/home/right1203/hwibell/FIFAGG_site/usermatch/views.py"
+-'  112  0  /home/right1203/hwibell/FIFAGG_site/usermatch/views.py
+|4,39,112,0,1575289598,"/home/right1203/hwibell/FIFAGG_site/usermatch/views.py"
+-'  112  0  /home/right1203/hwibell/FIFAGG_site/usermatch/views.py
+|4,39,112,0,1575289598,"/home/right1203/hwibell/FIFAGG_site/usermatch/views.py"
+-'  112  0  /home/right1203/hwibell/FIFAGG_site/usermatch/views.py
+|4,39,112,0,1575289598,"/home/right1203/hwibell/FIFAGG_site/usermatch/views.py"
+-'  112  0  /home/right1203/hwibell/FIFAGG_site/usermatch/views.py
+|4,39,112,0,1575289598,"/home/right1203/hwibell/FIFAGG_site/usermatch/views.py"
+-'  112  0  /home/right1203/hwibell/FIFAGG_site/usermatch/views.py
+|4,39,112,0,1575289598,"/home/right1203/hwibell/FIFAGG_site/usermatch/views.py"
+-'  112  0  /home/right1203/hwibell/FIFAGG_site/usermatch/views.py
+|4,39,112,0,1575289598,"/home/right1203/hwibell/FIFAGG_site/usermatch/views.py"
+-'  112  0  /home/right1203/hwibell/FIFAGG_site/usermatch/views.py
+|4,39,112,0,1575289598,"/home/right1203/hwibell/FIFAGG_site/usermatch/views.py"
+-'  112  0  /home/right1203/hwibell/FIFAGG_site/usermatch/views.py
+|4,39,112,0,1575289598,"/home/right1203/hwibell/FIFAGG_site/usermatch/views.py"
+-'  112  0  /home/right1203/hwibell/FIFAGG_site/usermatch/views.py
+|4,39,112,0,1575289598,"/home/right1203/hwibell/FIFAGG_site/usermatch/views.py"
+-'  112  0  /home/right1203/hwibell/FIFAGG_site/usermatch/views.py
+|4,39,112,0,1575289598,"/home/right1203/hwibell/FIFAGG_site/usermatch/views.py"
+-'  112  0  /home/right1203/hwibell/FIFAGG_site/usermatch/views.py
+|4,39,112,0,1575289598,"/home/right1203/hwibell/FIFAGG_site/usermatch/views.py"
+-'  112  0  /home/right1203/hwibell/FIFAGG_site/usermatch/views.py
+|4,39,112,0,1575289598,"/home/right1203/hwibell/FIFAGG_site/usermatch/views.py"
+
+# 파일내의 마크 히스토리 (새것부터 오래된 순):
+
+> /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/match_detail.html
+	*	1575294695	0
+	"	24	5
+
+> /home/right1203/hwibell/FIFAGG_site/usermatch/urls.py
+	*	1575289761	0
+	"	1	0
+
+> /home/right1203/hwibell/FIFAGG_site/usermatch/models.py
+	*	1575289747	0
+	"	1	0
+
+> /home/right1203/hwibell/FIFAGG_site/usermatch/templates/css/home.css
+	*	1575289729	0
+	"	131	0
+
+> /home/right1203/hwibell/FIFAGG_site/usermatch/templates/usermatch/usermatch_view.html
+	*	1575289709	0
+	"	1	0
+
+> /home/right1203/hwibell/FIFAGG_site/usermatch/views.py
+	*	1575289594	0
+	"	112	0

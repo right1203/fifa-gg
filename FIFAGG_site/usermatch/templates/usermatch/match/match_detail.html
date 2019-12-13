@@ -1,0 +1,40 @@
+{% extends 'usermatch/base.html' %}
+{% block content %}
+    {% if user_exist %}
+      <div class="row" style="margin: 40px; float: none;">
+
+          <span style="margin: 20 0 0 20; font-size: 28px;">구단주명: {{ userinfo.nickname }}<br>
+            <span style="font-size: 20px; ">LV: {{ userinfo.level }}</span>
+          </span>
+
+      </div>
+
+      <div style="font-size: 18px; margin: 40px;">
+        <p>최근 {{ matchNum }} 경기 기록</p>
+      </div>
+          <div style="margin: 40px;">
+          {% if recentmatchInfo %}
+              {% for match in recentmatchInfo %}
+              <div >
+                매치일시 : {{ match.matchdate }}
+                내팀 : {{ match.myteam }}
+                내점수 : {{ match.myscore }}
+                상대팀점수 : {{ match.opponentscore }}
+                상대팀 : {{ match.opponentteam }}
+                결과 : {{ match.winlose }}
+                <br>
+              </div>
+              <p></p>
+              {% endfor %}
+          {% else %}
+            <div>
+                공식경기 기록 없음
+            </div>
+          {% endif %}
+          </div>
+    {%else%}
+      <div>
+          유저 정보 없음
+      </div>
+    {% endif %}
+{% endblock %}

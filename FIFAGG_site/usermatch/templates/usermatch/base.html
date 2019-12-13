@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+{% load static %}
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link href="https://fonts.googleapis.com/css?family=Gothic+A1:100,300,500" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="{% static 'usermatch/home.css' %}">
+    <!-- <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet"> -->
+    <title>FIFA.GG</title>
+</head>
+<body>
+    <div class="menubar">
+            <div style="width: 100%;max-width: 1200px; margin-left: 30px;">
+                <ul style="display: inline-block; list-style: none; margin-left: 0px;">
+                    <li class="selected-menu">
+                        <a href="{% url 'usermatch:home' %}">FIFA ONLINE 4</a><!--피파 로고 자리-->
+                    <li class="not-selected-menu">
+                        <a href="{% url 'usermatch:recentmatch_summary' %}">선수 통계</a>
+                    </li>
+                    <li class="not-selected-menu">
+                        <a href="{% url 'usermatch:bymatch' %}">랭킹</a>
+                    </li>
+                </ul>
+            </div>
+    </div>
+    <div class="container">
+        {% block content %}
+        {% endblock %}
+    </div>
+</body>
+</html>

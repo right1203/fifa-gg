@@ -1,0 +1,11 @@
+{
+  "base_url": "/user/hwibell/",
+  "hostname": "127.0.0.1",
+  "notebook_dir": "/home/hwibell",
+  "password": false,
+  "pid": 23788,
+  "port": 51293,
+  "secure": false,
+  "token": "",
+  "url": "http://127.0.0.1:51293/user/hwibell/"
+}
