@@ -166,7 +166,7 @@ def match_detail(request):
             else:
                 print("Error Code:" + matchtype_res.status_code)
 
-            matchNum = 25
+            matchNum = 1
             #### 최근 N경기 매치id ####
             recentmatches_params = {"accessId":userinfo_data["accessId"], 'matchtype':matchtype_data[0]['matchtype'], 'offset':0, 'limit':matchNum}
             recentmatches_url = 'https://api.nexon.co.kr/fifaonline4/v1.0/users/{accessid}/matches?matchtype={matchtype}&offset={offset}&limit={limit}'.format(accessid=recentmatches_params["accessId"], matchtype=recentmatches_params['matchtype'], offset=recentmatches_params['offset'], limit=recentmatches_params['limit'] )

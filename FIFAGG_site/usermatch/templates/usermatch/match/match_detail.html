@@ -1,4 +1,14 @@
 {% extends 'usermatch/base.html' %}
+
+{% block search-bar %}
+<ul>
+    <form method="get" class="nickname-search-form" action="{% url 'usermatch:recentmatch_summary' %}">
+        <input type="text" class="nickname-search-form__input" placeholder="구단주명" name="search_nickname" value="{{search_nickname}}">
+        <button type="submit" class="nickname-search-form__button" type="submit">검색</button>
+    </form>
+</ul>
+{% endblock %}
+
 {% block content %}
     {% if user_exist %}
         <div class="row" style="margin: 40px; float: none;">
